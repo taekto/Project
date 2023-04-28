@@ -1,0 +1,76 @@
+.write-btn{
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+
+.search {
+    height: 38px;
+    float: right;
+    width: 200px;
+    margin-right: 5%;
+}
+
+.center {
+    text-align: center;
+}
+
+#title {
+    margin-top: 1%;
+    font-weight: bolder
+}
+
+
+.table {
+	margin-bottom: 5%;
+    width: 90% !important;
+    margin-left: 5%;
+}
+
+
+nav {
+    position: relative !important;
+    left: 45%;
+    bottom: 0%;
+}
+
+.page-link-1 {
+    background-color: cornflowerblue !important;
+    color: aliceblue !important;
+}
+
+.right-btn {
+    margin-left: 80%;
+}
+
+.detail {
+    text-align: center;
+    margin-left: 5%;
+}
+
+.review-correct{
+    margin-top: 1%;
+    width: 1700px;
+    height: 35px;
+    margin-left: 5.5%;
+}
+
+
+.corrent-btn {
+    margin-top: 2%;
+    margin-left: 5.5%;
+}
+
+.aa :focus {
+    color: pink;
+}
+
+.center2 {
+    text-align: center;
+}
+
+.card {
+    width: 95% !important;
+    /* margin-left: 10%; */
+    margin-top: 5%;
+
+}
