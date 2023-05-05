@@ -1,0 +1,28 @@
+.box {
+	display : flex;
+	flex-wrap : wrap;
+	justify-content : center;
+  position: relative;
+  z-index: 1;
+  padding: 5px;
+  margin-top: 5px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1), 0 5px 5px 0 rgba(0, 0, 0, 0.2);
+}
+.child{
+	margin-left : 5%;
+	flex : 1;
+}
+.a {
+  font-size: 0 !important; 
+}
+
+.index-img{
+  width: 100%;
+  height: 300px;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+}
